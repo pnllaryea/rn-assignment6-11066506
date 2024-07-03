@@ -51,12 +51,18 @@ Ensures that the cart's contents remain consistent across app sessions.
 
 Screenshot
 HomeScreen: Displaying the list of products.
-![Screenshot1](myapp/assets/Screenshot1.jpeg)
-![Screenshot2](myapp/assets/Screenshot2.jpeg)
+![Screenshot1]![Screenshot1](https://github.com/pnllaryea/rn-assignment6-11066506/assets/151792787/7b54676c-9005-4646-aeea-12eddb42d512)
+
+
+![Screenshot2] ![Screenshot2](https://github.com/pnllaryea/rn-assignment6-11066506/assets/151792787/ce6d6364-15a8-42f3-84f0-cb24dc445967)
+
 
 CartScreen: Displaying selected items in the cart.
-![Screenshot3](myapp/assets/Screenshot3.jpeg)
-![Screenshot4](myapp/assets/Screenshot4.jpeg)
+![Screenshot3] ![Screenshot3](https://github.com/pnllaryea/rn-assignment6-11066506/assets/151792787/49e6fef7-02b8-44ad-9925-3ba71b9b7a4e)
+
+
+![Screenshot4] ![Screenshot4](https://github.com/pnllaryea/rn-assignment6-11066506/assets/151792787/711ec0ac-ccc4-4cdc-81b6-7be40c4a11c6)
+
 
 
 
